@@ -56,17 +56,18 @@ At BUILD.AI, I coordinated real-world AI data collection operations across 30,00
 ## GitHub Snapshot
 
 <!-- AUTO-GENERATED-START -->
-_Last refreshed: 30 Jul 2026, 11:06 UTC_
+_Last refreshed: 30 Jul 2026, 11:12 UTC_
 
 | Metric | Value |
 |---|---:|
-| Public repositories | 3 |
+| Public repositories | 4 |
 | Total stars | 0 |
 | Total forks | 0 |
-| Top repository languages | Documentation (1), HTML (1), JavaScript (1) |
+| Top repository languages | Documentation (2), HTML (1), JavaScript (1) |
 
 ### Recently Updated Repositories
 
+- [zaidnayaz](https://github.com/zaidnayaz/zaidnayaz) - Self-updating GitHub profile README for Mohammed Zaid Nayaz `updated 30 Jul 2026`
 - [Mohammed_Zaid_Nayaz_Portfolio](https://github.com/zaidnayaz/Mohammed_Zaid_Nayaz_Portfolio) - Project repository and documentation. `updated 28 Jul 2026`
 - [Internship_Day_1_to_6_Project](https://github.com/zaidnayaz/Internship_Day_1_to_6_Project) - Project repository and documentation. `updated 20 Jul 2026`
 - [SafeCityAi-trafficviolation](https://github.com/zaidnayaz/SafeCityAi-trafficviolation) - SafeCityAI is a production-ready AI object detection project for detecting: Helmet No_Helmet License_Plate It includes a FastAPI backend, a premium... `updated 16 Jul 2026`
